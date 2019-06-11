@@ -2,3 +2,10 @@
 *.png
 # Portable Document Format
 *.pdf
+# JPEG
+*.jpg
+*.jpeg
+*.jpe
+*.jif
+*.jfif
+*.jfi
